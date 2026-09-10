@@ -15,9 +15,6 @@ A modern, high-performance tele-health frontend application built with **React**
 
 ## 📸 Screenshots
 
-<details>
-  <summary>📸 Click to view Application Previews</summary>
-  
   ## Patient Dashboard & Doctor Dashboard
 
 <img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/e95b0a33-afb4-47ef-8d55-40e48be52cdd" />
@@ -30,7 +27,7 @@ A modern, high-performance tele-health frontend application built with **React**
 
   ## Secure Checkout Checkout
  
-</details>
+
 
 ---
 
